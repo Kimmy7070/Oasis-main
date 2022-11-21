@@ -37,7 +37,7 @@
 
         <div class="swiper-wrapper">
 
-            <div class="swiper-slide slide" style="background: url(./img/18.jpg)">
+            <div class="swiper-slide slide" style="background: url(./img/18.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>plan your escape</h3>
@@ -45,7 +45,7 @@
                 </div>
             </div>
 
-            <div class=" swiper-slide slide" style="background: url(./img/20.jpg)">
+            <div class=" swiper-slide slide" style="background: url(./img/20.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>discover the colourful world</h3>
@@ -53,7 +53,7 @@
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background: url(./img/15.jpg)">
+            <div class="swiper-slide slide" style="background: url(./img/15.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>make your tour worthwhile</h3>
@@ -140,7 +140,7 @@
 
 <section class="home-about">
     <div class="image">
-        <img src="./img/5.jpg" alt="">
+        <img src="./img/5.webp" alt="">
     </div>
 
     <div class="content">
@@ -171,7 +171,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/4.jpg" alt="">
+                <img src="./img/4.webp" alt="">
             </div>
 
             <div class="content">
@@ -183,7 +183,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/1.jpg" alt="">
+                <img src="./img/1.webp" alt="">
             </div>
 
             <div class="content">
@@ -195,7 +195,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/2.jpg" alt="">
+                <img src="./img/2.webp" alt="">
             </div>
 
             <div class="content">

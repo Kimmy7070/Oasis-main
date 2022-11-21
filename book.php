@@ -50,7 +50,7 @@ if(!isset($_SESSION["username"]))
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background: url(./img/42.jpg)">
+<div class="heading" style="background: url(./img/42.webp)">
     <h1>book now</h1>
 </div>
 
