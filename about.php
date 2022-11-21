@@ -29,7 +29,7 @@
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background: url(./img/6.jpg)" >
+<div class="heading" style="background: url(./img/6.webp)" >
     <h1>about us</h1>
 </div>
 
@@ -39,7 +39,7 @@
 <section class="about">
 
     <div class="image">
-        <img src="./img/8.jpg" alt="">
+        <img src="./img/8.webp" alt="">
     </div>
 
     <div class="content">
@@ -81,7 +81,7 @@
                 </div>
                 <h3>john deo</h3>
                 <span>traveler</span>
-                <img src="./img/12.jpg">
+                <img src="./img/12.webp">
                 <p>Well arranged amd coordinated Beautiful view of pangong lake and the scenic drives</p>
             </div>
 
@@ -94,7 +94,7 @@
                 </div>
                 <h3>nick</h3>
                 <span>traveler</span>
-                <img src="./img/14.jpg">
+                <img src="./img/14.webp">
                 <p>Our tour with oasis was very good.the tour was well planned & our guide Mr Bijay was awesome. Thanks oasis for such a wonderful tour.</p>
             </div>
 
@@ -106,7 +106,7 @@
                 </div>
                 <h3>shelly</h3>
                 <span>traveler</span>
-                <img src="./img/11.jpg">
+                <img src="./img/11.webp">
                 <p>Overall a good experience!</p>
             </div>
 
@@ -120,7 +120,7 @@
                 </div>
                 <h3>nikita pai</h3>
                 <span>traveler</span>
-                <img src="./img/13.jpg">
+                <img src="./img/13.webp">
                 <p>Simply amazing and will travel again with you for sure. They even helped my old parents and took care of my family</p>
             </div>
         </div>

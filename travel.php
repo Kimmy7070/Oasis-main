@@ -39,7 +39,7 @@
 
         <div class="swiper-wrapper">
 
-            <div class="swiper-slide slide" style="background: url(./img/18.jpg)">
+            <div class="swiper-slide slide" style="background: url(./img/18.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>plan your escape</h3>
@@ -47,7 +47,7 @@
                 </div>
             </div>
 
-            <div class=" swiper-slide slide" style="background: url(./img/20.jpg)">
+            <div class=" swiper-slide slide" style="background: url(./img/20.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>discover the colourful world</h3>
@@ -55,7 +55,7 @@
                 </div>
             </div>
 
-            <div class="swiper-slide slide" style="background: url(./img/15.jpg)">
+            <div class="swiper-slide slide" style="background: url(./img/15.webp)">
                 <div class="content">
                     <span>explore, discover, travel</span>
                     <h3>make your tour worthwhile</h3>
@@ -87,42 +87,42 @@
 <div class="box-container">
 
      <div class="box">
-        <img src="./img/images/icon-2.png" alt="">
+        <img src="./img/images/icon-2.webp" alt="">
         <h3>adventure</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-2.png" alt="">
+        <img src="./img/images/icon-2.webp" alt="">
         <h3>tour guide</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-3.png" alt="">
+        <img src="./img/images/icon-3.webp" alt="">
         <h3>rental cars</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-4.png" alt="">
+        <img src="./img/images/icon-4.webp" alt="">
         <h3>flights</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-5.png" alt="">
+        <img src="./img/images/icon-5.webp" alt="">
         <h3>airport taxies</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-6.png" alt="">
+        <img src="./img/images/icon-6.webp" alt="">
         <h3>trains</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-7.png" alt="">
+        <img src="./img/images/icon-7.webp" alt="">
         <h3>hotels</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-7.png" alt="">
+        <img src="./img/images/icon-7.webp" alt="">
         <h3>others</h3>
      </div>
 </div>
@@ -142,7 +142,7 @@
 
 <section class="home-about">
     <div class="image">
-        <img src="./img/5.jpg" alt="">
+        <img src="./img/5.webp" alt="">
     </div>
 
     <div class="content">
@@ -173,7 +173,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/4.jpg" alt="">
+                <img src="./img/4.webp" alt="">
             </div>
 
             <div class="content">
@@ -185,7 +185,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/1.jpg" alt="">
+                <img src="./img/1.webp" alt="">
             </div>
 
             <div class="content">
@@ -197,7 +197,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="./img/2.jpg" alt="">
+                <img src="./img/2.webp" alt="">
             </div>
 
             <div class="content">

@@ -50,7 +50,7 @@ if(!isset($_SESSION["username"]))
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background: url(./img/9.jpg)">
+<div class="heading" style="background: url(./img/9.webp)">
     <h1>packages</h1>
 </div>
 
@@ -64,7 +64,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/30.jpg" alt="">
+                <img src="./img/30.webp" alt="">
             </div>
             <div class="content">
                 <h3>goa</h3>
@@ -76,7 +76,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/31.jpg" alt="">
+                <img src="./img/31.webp" alt="">
             </div>
             <div class="content">
                 <h3>new delhi</h3>
@@ -88,7 +88,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/32.jpg" alt="">
+                <img src="./img/32.webp" alt="">
             </div>
             <div class="content">
                 <h3>Mumbai</h3>
@@ -100,7 +100,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/33.jpg" alt="">
+                <img src="./img/33.webp" alt="">
             </div>
             <div class="content">
                 <h3>rajasthan</h3>
@@ -112,7 +112,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/34.jpg" alt="">
+                <img src="./img/34.webp" alt="">
             </div>
             <div class="content">
                 <h3>tamil nadu</h3>
@@ -124,7 +124,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/35.jpg" alt="">
+                <img src="./img/35.webp" alt="">
             </div>
             <div class="content">
                 <h3>kashmir</h3>
@@ -136,7 +136,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/36.jpg" alt="">
+                <img src="./img/36.webp" alt="">
             </div>
             <div class="content">
                 <h3>andaman and nicobar</h3>
@@ -148,7 +148,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/37.jpg" alt="">
+                <img src="./img/37.webp" alt="">
             </div>
             <div class="content">
                 <h3>kerala</h3>
@@ -160,7 +160,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/38.jpg" alt="">
+                <img src="./img/38.webp" alt="">
             </div>
             <div class="content">
                 <h3>himachal pradesh</h3>
@@ -172,7 +172,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/39.jpg" alt="">
+                <img src="./img/39.webp" alt="">
             </div>
             <div class="content">
                 <h3>andhra pradesh</h3>
@@ -184,7 +184,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/40.jpg" alt="">
+                <img src="./img/40.webp" alt="">
             </div>
             <div class="content">
                 <h3>arunachal pradesh</h3>
@@ -196,7 +196,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/41.jpg" alt="">
+                <img src="./img/41.webp" alt="">
             </div>
             <div class="content">
                 <h3>leh ladakh</h3>

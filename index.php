@@ -85,42 +85,42 @@
 <div class="box-container">
 
      <div class="box">
-        <img src="./img/images/icon-2.png" alt="">
+        <img src="./img/images/icon-2.webp" alt="">
         <h3>adventure</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-2.png" alt="">
+        <img src="./img/images/icon-2.webp" alt="">
         <h3>tour guide</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-3.png" alt="">
+        <img src="./img/images/icon-3.webp" alt="">
         <h3>rental cars</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-4.png" alt="">
+        <img src="./img/images/icon-4.webp" alt="">
         <h3>flights</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-5.png" alt="">
+        <img src="./img/images/icon-5.webp" alt="">
         <h3>airport taxies</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-6.png" alt="">
+        <img src="./img/images/icon-6.webp" alt="">
         <h3>trains</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-7.png" alt="">
+        <img src="./img/images/icon-7.webp" alt="">
         <h3>hotels</h3>
      </div>
 
      <div class="box">
-        <img src="./img/images/icon-7.png" alt="">
+        <img src="./img/images/icon-7.webp" alt="">
         <h3>others</h3>
      </div>
 </div>

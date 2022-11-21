@@ -62,7 +62,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/57.jpg" alt="">
+                <img src="./img/57.webp" alt="">
             </div>
             <div class="content">
                 <h3>single</h3>
@@ -74,7 +74,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/63.jpg" alt="">
+                <img src="./img/63.webp" alt="">
             </div>
             <div class="content">
                 <h3>twin</h3>
@@ -86,7 +86,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/58.jpg" alt="">
+                <img src="./img/58.webp" alt="">
             </div>
             <div class="content">
                 <h3>double</h3>
@@ -98,7 +98,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/60.jpg" alt="">
+                <img src="./img/60.webp" alt="">
             </div>
             <div class="content">
                 <h3>triple</h3>
@@ -110,7 +110,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/61.jpg" alt="">
+                <img src="./img/61.webp" alt="">
             </div>
             <div class="content">
                 <h3>quad</h3>
@@ -122,7 +122,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/62.jpg" alt="">
+                <img src="./img/62.webp" alt="">
             </div>
             <div class="content">
                 <h3>queen</h3>
@@ -148,7 +148,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/64.jpg" alt="">
+                <img src="./img/64.webp" alt="">
             </div>
             <div class="content">
                 <h3>single</h3>
@@ -160,7 +160,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/65.jpg" alt="">
+                <img src="./img/65.webp" alt="">
             </div>
             <div class="content">
                 <h3>twin</h3>
@@ -172,7 +172,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/66.jpg" alt="">
+                <img src="./img/66.webp" alt="">
             </div>
             <div class="content">
                 <h3>double</h3>
@@ -184,7 +184,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/67.jpg" alt="">
+                <img src="./img/67.webp" alt="">
             </div>
             <div class="content">
                 <h3>triple</h3>
@@ -196,7 +196,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/68.jpg" alt="">
+                <img src="./img/68.webp" alt="">
             </div>
             <div class="content">
                 <h3>quad</h3>
@@ -208,7 +208,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/69.jpg" alt="">
+                <img src="./img/69.webp" alt="">
             </div>
             <div class="content">
                 <h3>queen</h3>
