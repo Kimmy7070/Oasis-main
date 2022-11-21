@@ -50,7 +50,7 @@ if(!isset($_SESSION["username"]))
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background: url(./img/9.jpg)">
+<div class="heading" style="background: url(./img/9.webp)">
     <h1>packages</h1>
 </div>
 
@@ -65,7 +65,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/10.jpg" alt="">
+                <img src="./img/10.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -76,7 +76,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/16.jpg" alt="">
+                <img src="./img/16.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -87,7 +87,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/19.jpg" alt="">
+                <img src="./img/19.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -98,7 +98,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/25.jpg" alt="">
+                <img src="./img/25.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -109,7 +109,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/21.jpg" alt="">
+                <img src="./img/21.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -120,7 +120,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/22.jpg" alt="">
+                <img src="./img/22.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -131,7 +131,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/23.jpg" alt="">
+                <img src="./img/23.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -142,7 +142,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/24.jpg" alt="">
+                <img src="./img/24.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -153,7 +153,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/26.jpg" alt="">
+                <img src="./img/26.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -164,7 +164,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/27.jpg" alt="">
+                <img src="./img/27.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -175,7 +175,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/28.jpg" alt="">
+                <img src="./img/28.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
@@ -186,7 +186,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/29.jpg" alt="">
+                <img src="./img/29.webp" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>
