@@ -211,7 +211,7 @@ if(!isset($_SESSION["username"]))
         <div class="box">
         <h3>quick links</h3>
         <a href="index.php"><i class="fas-fa-angle-right"></i>Home</a>
-        <a href="about.php"><i class="fas-fa-angle-right"></i>About</a>
+        <a href="aboutus.php"><i class="fas-fa-angle-right"></i>About</a>
         <a href="packages.php"><i class="fas-fa-angle-right"></i>Packages</a>
         </div>
 
