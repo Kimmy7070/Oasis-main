@@ -171,7 +171,7 @@ if(!isset($_SESSION["username"]))
         <h3>about us</h3>
         <p>We, at ‘Oasis’, swear by this and put stock in satisfying travel dreams that make you perpetually rich constantly.
         We have been moving excellent encounters for a considerable length of time through our cutting-edge planned occasion bundles and other fundamental travel administrations.</p>
-        <a href="about.php" class="btn">read more</a>   
+        <a href="aboutus.php" class="btn">read more</a>   
     </div>
 </section>
 <!--home about section ends-->
@@ -256,7 +256,7 @@ if(!isset($_SESSION["username"]))
         <div class="box">
         <h3>quick links</h3>
         <a href="userProfile.php"><i class="fas-fa-angle-right"></i>Home</a>
-        <a href="about.php"><i class="fas-fa-angle-right"></i>About</a>
+        <a href="aboutus.php"><i class="fas-fa-angle-right"></i>About</a>
         <a href="packages.php"><i class="fas-fa-angle-right"></i>Packages</a>
         </div>
 
