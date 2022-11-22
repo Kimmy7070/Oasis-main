@@ -1,4 +1,7 @@
 <?php
+function showAlert(){
+	echo "<script src='alert.js'></script>";
+}
 session_start ();
 include("dbconnect.php"); 
 
@@ -18,8 +21,7 @@ if($result)
 }
 else	
 {
-	header("location:log.php?err=1");
-	
+	showAlert();
 }
 }
 ?>
