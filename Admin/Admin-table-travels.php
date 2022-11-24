@@ -1,6 +1,7 @@
 <?php
 include('session.php');
 
+
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -16,9 +17,8 @@ if ($conn->connect_error) {
 }
 
 
-
 // SQL QUERY
-$query = "SELECT * FROM `users`;";
+$query = "SELECT * FROM `book_form`;";
 
 // FETCHING DATA FROM DATABASE
 $result = $conn->query($query);
@@ -120,10 +120,10 @@ $result = $conn->query($query);
     <main id="main" class="main">
 
         <div class="pagetitle">
-            <h1>Users Table</h1>
+            <h1>Booking Registration Table</h1>
             <nav>
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item">Table</li>
+                    <li class="breadcrumb-item">Tables</li>
                     <!-- <li class="breadcrumb-item active">General</li> -->
                 </ol>
             </nav>
@@ -140,14 +140,16 @@ $result = $conn->query($query);
                     <table class="table table-bordered border-primary">
                         <thead>
                             <tr>
-                                <th scope="col">#ID</th>
-                                <th scope="col">First Name</th>
-                                <th scope="col">Last Name</th>
-                                <th scope="col">Username</th>
-                                <th scope="col">Email</th>
-                                <th scope="col">Password</th>
-                                <th scope="col">Time Stamp</th>
-                                <th scope="col">Delete User</th>
+                                <th scope="col">id </th>
+                                <th scope="col">name</th>
+                                <th scope="col">email</th>
+                                <th scope="col">phone </th>
+                                <th scope="col">address</th>
+                                <th scope="col">location</th>
+                                <th scope="col">guests</th>
+                                <th scope="col">arrivals</th>
+                                <th scope="col">leaving</th>
+                                <th scope="col">Delete Travel</th>
                                 <!-- <th scope="col">Time Stamp</th> -->
                             </tr>
                         </thead>
@@ -165,12 +167,14 @@ $result = $conn->query($query);
    
                             <tr>
                                 <td><?php echo $rows['id'];?></td>
-                                <td><?php echo $rows['fname'];?></td>
-                                <td><?php echo $rows['lname'];?></td>
-                                <td><?php echo $rows['username'];?></td>
+                                <td><?php echo $rows['name'];?></td>
                                 <td><?php echo $rows['email'];?></td>
-                                <td><?php echo $rows['password'];?></td>
-                                <td><?php echo $rows['timestamp'];?></td>
+                                <td><?php echo $rows['phone'];?></td>
+                                <td><?php echo $rows['address'];?></td>
+                                <td><?php echo $rows['location'];?></td>
+                                <td><?php echo $rows['guests'];?></td>
+                                <td><?php echo $rows['arrivals'];?></td>
+                                <td><?php echo $rows['leaving'];?></td>
                                 <td><input type="button" value="Delete User" name="delete"></td>
                             </tr>
                            

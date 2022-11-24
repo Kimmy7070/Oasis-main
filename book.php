@@ -106,7 +106,7 @@ if(!isset($_SESSION["username"]))
 
     </div>
     <input type="submit" value="submit" class="btn" name="send">
-    <input type="submit" value="cancel" class="btn" name="send">
+    <!-- <input type="submit" value="cancel" class="btn" name="send"> -->
 
     <div class="back"><a href="packages.php" class="btn">back</a></div>
 </form>
