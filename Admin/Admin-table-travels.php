@@ -85,7 +85,7 @@ $result = $conn->query($query);
             <li class="nav-item">
                 <a class="nav-link collapsed" href="Admin-table.php">
                     <i class="bi bi-grid"></i>
-                    <span>Dashboard</span>
+                    <span>Users</span>
                 </a>
             </li>
 

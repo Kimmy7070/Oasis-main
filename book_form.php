@@ -1,5 +1,7 @@
 <?php
-
+function show(){
+	echo "<script src='book-alert.js'></script>";
+}
 include('dbconnect.php');
 
 if(isset($_POST['send'])){
@@ -17,7 +19,7 @@ if(isset($_POST['send'])){
 
     mysqli_query($conn, $request);
     
-    header("Location: book.php");
+    show();
 }else{
     echo "Something went wrong. Try again";
 }
