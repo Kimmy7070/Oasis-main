@@ -147,7 +147,7 @@ $result = $conn->query($query);
                                 <th scope="col">Email</th>
                                 <th scope="col">Password</th>
                                 <th scope="col">Time Stamp</th>
-                                <th scope="col">Delete User</th>
+                                <!-- <th scope="col">Delete User</th> -->
                                 <!-- <th scope="col">Time Stamp</th> -->
                             </tr>
                         </thead>
@@ -171,7 +171,7 @@ $result = $conn->query($query);
                                 <td><?php echo $rows['email'];?></td>
                                 <td><?php echo $rows['password'];?></td>
                                 <td><?php echo $rows['timestamp'];?></td>
-                                <td><input type="button" value="Delete User" name="delete"></td>
+                                <!-- <td><input type="button" value="Delete User" name="delete"></td> -->
                             </tr>
                            
                         </tbody>

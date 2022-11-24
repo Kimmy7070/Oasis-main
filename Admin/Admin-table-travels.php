@@ -149,7 +149,7 @@ $result = $conn->query($query);
                                 <th scope="col">guests</th>
                                 <th scope="col">arrivals</th>
                                 <th scope="col">leaving</th>
-                                <th scope="col">Delete Travel</th>
+                                <!-- <th scope="col">Delete Travel</th> -->
                                 <!-- <th scope="col">Time Stamp</th> -->
                             </tr>
                         </thead>
@@ -175,7 +175,7 @@ $result = $conn->query($query);
                                 <td><?php echo $rows['guests'];?></td>
                                 <td><?php echo $rows['arrivals'];?></td>
                                 <td><?php echo $rows['leaving'];?></td>
-                                <td><input type="button" value="Delete User" name="delete"></td>
+                                <!-- <td><input type="button" value="Delete User" name="delete"></td> -->
                             </tr>
                            
                         </tbody>
