@@ -120,10 +120,10 @@ $result = $conn->query($query);
     <main id="main" class="main">
 
         <div class="pagetitle">
-            <h1>Booking Registration Table</h1>
+            <h1>Admin Panel</h1>
             <nav>
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item">Tables</li>
+                    <li class="breadcrumb-item">Booking Registration Table</li>
                     <!-- <li class="breadcrumb-item active">General</li> -->
                 </ol>
             </nav>

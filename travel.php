@@ -248,10 +248,10 @@
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="#"><i class="fab fa-facebook"></i>facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-            <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+            <a href="https://www.facebook.com/login"><i class="fab fa-facebook"></i>facebook</a>
+            <a href="https://twitter.com/i/flow/login"><i class="fab fa-twitter"></i>twitter</a>
+            <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3F__coig_login%3D1"><i class="fab fa-instagram"></i>instagram</a>
+            <a href="https://www.linkedin.com/login/"><i class="fab fa-linkedin"></i>linkedin</a>
         </div>
 
         <div class="box">

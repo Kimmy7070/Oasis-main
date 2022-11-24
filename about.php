@@ -29,7 +29,7 @@
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background: url(./img/6.webp)" >
+<div class="heading" style="background: url(./img/6.jpg)" >
     <h1>about us</h1>
 </div>
 
@@ -39,7 +39,7 @@
 <section class="about">
 
     <div class="image">
-        <img src="./img/8.webp" alt="">
+        <img src="./img/8.jpg" alt="">
     </div>
 
     <div class="content">
@@ -81,7 +81,7 @@
                 </div>
                 <h3>john deo</h3>
                 <span>traveler</span>
-                <img src="./img/12.webp">
+                <img src="./img/12.jpg">
                 <p>Well arranged amd coordinated Beautiful view of pangong lake and the scenic drives</p>
             </div>
 
@@ -94,7 +94,7 @@
                 </div>
                 <h3>nick</h3>
                 <span>traveler</span>
-                <img src="./img/14.webp">
+                <img src="./img/14.jpg">
                 <p>Our tour with oasis was very good.the tour was well planned & our guide Mr Bijay was awesome. Thanks oasis for such a wonderful tour.</p>
             </div>
 
@@ -106,7 +106,7 @@
                 </div>
                 <h3>shelly</h3>
                 <span>traveler</span>
-                <img src="./img/11.webp">
+                <img src="./img/11.jpg">
                 <p>Overall a good experience!</p>
             </div>
 
@@ -120,7 +120,7 @@
                 </div>
                 <h3>nikita pai</h3>
                 <span>traveler</span>
-                <img src="./img/13.webp">
+                <img src="./img/13.jpg">
                 <p>Simply amazing and will travel again with you for sure. They even helped my old parents and took care of my family</p>
             </div>
         </div>
@@ -157,10 +157,10 @@
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="#"><i class="fab fa-facebook"></i>facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-            <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+            <a href="https://www.facebook.com/login"><i class="fab fa-facebook"></i>facebook</a>
+            <a href="https://twitter.com/i/flow/login"><i class="fab fa-twitter"></i>twitter</a>
+            <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3F__coig_login%3D1"><i class="fab fa-instagram"></i>instagram</a>
+            <a href="https://www.linkedin.com/login/"><i class="fab fa-linkedin"></i>linkedin</a>
         </div>
 
         <div class="box">

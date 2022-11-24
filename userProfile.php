@@ -171,7 +171,7 @@ if(!isset($_SESSION["username"]))
         <h3>about us</h3>
         <p>We, at ‘Oasis’, swear by this and put stock in satisfying travel dreams that make you perpetually rich constantly.
         We have been moving excellent encounters for a considerable length of time through our cutting-edge planned occasion bundles and other fundamental travel administrations.</p>
-        <a href="aboutus.php" class="btn">read more</a>   
+        <a href="about.php" class="btn">read more</a>   
     </div>
 </section>
 <!--home about section ends-->
@@ -256,7 +256,7 @@ if(!isset($_SESSION["username"]))
         <div class="box">
         <h3>quick links</h3>
         <a href="userProfile.php"><i class="fas-fa-angle-right"></i>Home</a>
-        <a href="aboutus.php"><i class="fas-fa-angle-right"></i>About</a>
+        <a href="about.php"><i class="fas-fa-angle-right"></i>About</a>
         <a href="packages.php"><i class="fas-fa-angle-right"></i>Packages</a>
         </div>
 
@@ -270,10 +270,10 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="#"><i class="fab fa-facebook"></i>facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i>instagram</a>
-            <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
+            <a href="https://www.linkedin.com/login/"><i class="fab fa-facebook"></i>facebook</a>
+            <a href="https://www.facebook.com/login"><i class="fab fa-twitter"></i>twitter</a>
+            <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3F__coig_login%3D1"><i class="fab fa-instagram"></i>instagram</a>
+            <a href="https://www.linkedin.com/login/"><i class="fab fa-linkedin"></i>linkedin</a>
         </div>
 
         <div class="box">
