@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>You are not logged in...</h1>
-    <h2>Tumi ekta boro Baallllll........</h2>
-    <a href="index.php">To home</a>
+    <h1 style="align: centre">You don't have permission to view this page</h1>
+    <p>If you have came here by any other purposes you are ordered to go <a href="index.php">go home</a></p>
 </body>
 </html>

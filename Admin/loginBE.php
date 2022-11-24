@@ -1,4 +1,7 @@
 <?php
+function showAlert(){
+	echo "<script src='alert.js'></script>";
+}
 session_start ();
 include("dbconnect.php"); 
 
@@ -14,12 +17,11 @@ if($result)
 	
 	$_SESSION["login"]="1";
 	$_SESSION["username"]=$a;
-	header("location: AdminPanel.php");
+	header("location: Admin-table.php");
 }
 else	
 {
-	header("location:log.php?err=1");
-	
+	showAlert();	
 }
 }
 ?>
