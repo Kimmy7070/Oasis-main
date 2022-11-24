@@ -57,7 +57,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="swiper-wrapper">
 
-            <div class="swiper-slide slide" style="background: url(./img/43.jpg)">
+            <div class="swiper-slide slide" style="background: url(./img/43.webp)">
                 <div class="content">
                     <span>luxury living</span>
                     <h3>discover a brand luxurious hotel</h3>
@@ -66,7 +66,7 @@ if(!isset($_SESSION["username"]))
                 </div>
             </div>
 
-            <div class=" swiper-slide slide" style="background: url(./img/44.jpg)">
+            <div class=" swiper-slide slide" style="background: url(./img/44.webp)">
                 <div class="content">
                     <span>luxury living</span>
                     <h3>discover a brand luxurious hotel</h3>
@@ -123,7 +123,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/46.jpg" alt="">
+                <img src="./img/46.webp" alt="">
             </div>
             <div class="content">
                 <h3>hotel</h3>
@@ -140,7 +140,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/47.jpg" alt="">
+                <img src="./img/47.webp" alt="">
             </div>
             <div class="content">
                 <h3>hotel</h3>
@@ -155,7 +155,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/48.jpg" alt="">
+                <img src="./img/48.webp" alt="">
             </div>
             <div class="content">
                 <h3>hotel</h3>
@@ -182,7 +182,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/49.jpg" alt="">
+                <img src="./img/49.webp" alt="">
             </div>
             <div class="content">
                 <h3>villa</h3>
@@ -199,7 +199,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/50.jpg" alt="">
+                <img src="./img/50.webp" alt="">
             </div>
             <div class="content">
                 <h3>villa</h3>
@@ -214,7 +214,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/52.jpg" alt="">
+                <img src="./img/52.webp" alt="">
             </div>
             <div class="content">
                 <h3>villa</h3>
@@ -241,7 +241,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/53.jpg" alt="">
+                <img src="./img/53.webp" alt="">
             </div>
             <div class="content">
                 <h3>stay</h3>
@@ -258,7 +258,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/55.jpg" alt="">
+                <img src="./img/55.webp" alt="">
             </div>
             <div class="content">
                 <h3>stay</h3>
@@ -273,7 +273,7 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <div class="image">
-                <img src="./img/56.jpg" alt="">
+                <img src="./img/56.webp" alt="">
             </div>
             <div class="content">
                 <h3>stay</h3>
@@ -329,7 +329,7 @@ if(!isset($_SESSION["username"]))
         <div class="box">
         <h3>quick links</h3>
         <a href="userProfile.php"><i class="fas-fa-angle-right"></i>Home</a>
-        <a href="about.php"><i class="fas-fa-angle-right"></i>About</a>
+        <a href="aboutus.php"><i class="fas-fa-angle-right"></i>About</a>
         <a href="packages.php"><i class="fas-fa-angle-right"></i>Packages</a>
         </div>
 
@@ -343,10 +343,10 @@ if(!isset($_SESSION["username"]))
 
         <div class="box">
             <h3>follow us</h3>
-            <a href="https://www.facebook.com/login"><i class="fab fa-facebook"></i>facebook</a>
-            <a href="https://twitter.com/i/flow/login"><i class="fab fa-twitter"></i>twitter</a>
-            <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flogin%2F%3F__coig_login%3D1"><i class="fab fa-instagram"></i>instagram</a>
-            <a href="https://www.linkedin.com/login/"><i class="fab fa-linkedin"></i>linkedin</a>
+            <a href="#"><i class="fab fa-facebook"></i>facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i>twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i>instagram</a>
+            <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
         </div>
 
         <div class="box">
